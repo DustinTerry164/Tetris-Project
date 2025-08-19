@@ -1,0 +1,2 @@
+patch the bug that called the reset piece function more than it needed to
+called the randomize piece function from the set piece target function to clean up the code more
